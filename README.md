@@ -1,1 +1,3 @@
-# Tic-tac-toe.io
+Created a resposive and working calculator......
+
+visit to play 👉 https://awalzz-tic-tac-toe.netlify.app/
